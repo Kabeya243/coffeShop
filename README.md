@@ -1,5 +1,8 @@
 # coffeShop
 This is a beautiful website using the NEOBRUTALISM DESIGN.
+
+
+
 What is neo Brutalism in design?
 Brutalism and Neo-Brutalism, will it be a new trend in 2023 ...
 Neo-Brutalism is a design concept with an unusual background color theme without gradients,
